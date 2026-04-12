@@ -24,7 +24,7 @@ You bring the data, I’ll bring the insights 📊💻
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](add-your-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shaikh-ayan-bb45113b2/)
 
 
 
