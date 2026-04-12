@@ -8,8 +8,11 @@ I’m a data analyst fresher who is learning, building projects, and improving s
 Here, you'll find:
 
 🛠️ Projects I’m building while learning data analysis
+
 📊 Work with real datasets using Excel, SQL, Python, and Power BI
+
 📚 Things I’ve learned while practicing and improving daily
+
 🌱 My journey from beginner to becoming a data analyst
 
 Whether you're here to check my work, get ideas, or see how I’m learning, you’re in the right place!
