@@ -3,7 +3,7 @@
 Glad you’re here!
 Welcome to my little corner of GitHub!
 
-I’m a data analyst fresher who is learning, building projects, and improving step by step. I enjoy working with data, finding patterns, and turning raw data into simple and useful insights.
+I’m an aspiring data analyst who is learning, building projects, and improving step by step. I enjoy working with data, finding patterns, and turning raw data into simple and useful insights.
 
 Here, you'll find:
 
